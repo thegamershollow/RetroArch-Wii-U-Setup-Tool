@@ -1,4 +1,4 @@
-import requests, os, sys, shutil, platform, subprocess, py7zr
+import requests, os, sys, shutil, platform, py7zr
 from colorama import Fore; from zipfile import ZipFile
 
 #* main download urls
